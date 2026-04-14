@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sana Raja
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Permanent+Marker&size=32&pause=1500&color=44a27a&width=850&lines=%E2%9A%99%EF%B8%8F+Turning+Megaproject+Data+into+Strategic+Insights;%F0%9F%9A%80+Driving+Digital+Transformation+%26+Operational+Excellence;%F0%9F%92%A1+Bridging+the+Gap+Between+Data+and+Human+Decisions)](https://github.com/sanazraja)</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Permanent+Marker&size=24&pause=1500&color=44a27a&width=850&lines=%E2%9A%99%EF%B8%8F+Turning+Megaproject+Data+into+Strategic+Insights;%F0%9F%9A%80+Driving+Digital+Transformation+%26+Operational+Excellence;%F0%9F%92%A1+Bridging+the+Gap+Between+Data+and+Human+Decisions)](https://github.com/sanazraja)</a>
 
 ---
 
